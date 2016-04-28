@@ -1,0 +1,20 @@
+{
+  "name": "moment-import",
+  "homepage": "https://github.com/SephVelut/dash-quickchart",
+  "authors": [
+    "seph <sephvelut@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
